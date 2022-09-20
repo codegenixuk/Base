@@ -1,0 +1,22 @@
+{
+    "name": "codegenixuk/module-base",
+    "description": "Magento 2: Base Extension",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Codegenixuk Uk",
+            "email": "info@codegenic.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Codegenixuk\\Base\\": ""
+        }
+    }
+}
