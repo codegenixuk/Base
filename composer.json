@@ -1,5 +1,5 @@
 {
-    "name": "codegenixuk/module-base",
+    "name": "codegenixuk/Base",
     "description": "Magento 2: Base Extension",
     "type": "magento2-module",
     "license": "GPL-3.0",
