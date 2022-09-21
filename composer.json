@@ -1,8 +1,8 @@
 {
-    "name": "codegenixuk/Base",
-    "description": "Magento 2: Base Extension",
+    "name": "codegenixuk/base",
+    "description": "Codegenix: Base Extension",
     "type": "magento2-module",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Codegenixuk Uk",
